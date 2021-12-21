@@ -3,6 +3,6 @@ public class test {
         System.out.println("1111111111111111111111");
         System.out.println("Fenzhi");
         System.out.println("Fenzhi");
-        System.out.println("Fenzhi");
+
     }
 }
